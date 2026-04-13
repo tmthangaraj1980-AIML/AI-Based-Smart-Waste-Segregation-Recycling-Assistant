@@ -47,6 +47,17 @@ streamlit run app.py
 
 ---
 
+## 🔮 Future Enhancements
+
+- Integration with Smart Bins using IoT sensors  
+- Automatic lid opening based on waste type  
+- Real-time waste monitoring system  
+- Multi-waste detection using YOLO  
+- Mobile app integration  
+- Tamil & English language support  
+
+---
+
 ## 🌱 Impact
 - Supports Smart City initiatives  
 - Promotes Circular Economy  
